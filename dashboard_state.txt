@@ -1,0 +1,17 @@
+speed=0
+rpm=0
+fuel=71.99166667
+temp=47.84413461
+battery=12.6
+odometer=12345.04167
+trip=0.04166666667
+speed_limit=80
+gear=0
+engine=0
+reverse=0
+headlights=0
+left_indicator=0
+right_indicator=0
+hazards=0
+seatbelt=1
+check_engine=0
